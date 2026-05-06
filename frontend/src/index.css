@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Syne:wght@400;600;800&display=swap');
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #0a0d12;
+  --surface: #111620;
+  --border: #1e2738;
+  --accent: #4fffb0;
+  --accent2: #4f9fff;
+  --text: #e2e8f0;
+  --muted: #64748b;
+  --error: #ff4f6b;
+  --font-ui: 'Syne', sans-serif;
+  --font-code: 'JetBrains Mono', monospace;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-ui);
+  min-height: 100vh;
+}
+
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--bg); }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
