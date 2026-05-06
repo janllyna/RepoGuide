@@ -1,4 +1,4 @@
-# RepoGuide 🔎
+# RepoGuide
 
 **Codebase Documentation Chatbot** — Ask questions about any GitHub repository in natural language.
 
