@@ -129,13 +129,3 @@ curl -X POST http://localhost:8000/query \
 | Vector DB | FAISS |
 | LLM | OpenAI GPT-3.5-turbo |
 | Frontend | React 18, Vite, styled-components |
-
----
-
-## Team
-
-- Janllyn Avantika (43611173)
-- Pranaambigai Rajesh (43611103)
-
-**Guide:** Dr. S. Sreeji, M.E., Ph.D. — Assistant Professor, CSE  
-**Institution:** Sathyabama Institute of Science and Technology
